@@ -32,8 +32,6 @@
 	"repository": "developit/karmatic",
 	"license": "MIT",
 	"devDependencies": {
-		"@rollup/plugin-commonjs": "^14.0.0",
-		"@rollup/plugin-node-resolve": "^8.4.0",
 		"eslint": "^7.3.0",
 		"eslint-config-developit": "^1.2.0",
 		"eslint-config-prettier": "^6.11.0",
@@ -52,6 +50,8 @@
 		"@babel/preset-env": "^7.10.3",
 		"@babel/preset-stage-0": "^7.8.3",
 		"@rollup/plugin-babel": "^5.1.0",
+		"@rollup/plugin-commonjs": "^14.0.0",
+		"@rollup/plugin-node-resolve": "^8.4.0",
 		"babel-loader": "^8.1.0",
 		"babel-plugin-istanbul": "^6.0.0",
 		"chalk": "^2.3.0",
